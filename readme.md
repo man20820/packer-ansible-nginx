@@ -1,1 +1,1 @@
-Guide: https://tkjpedia.com/build-pre-configured-ami-using-packer-and-ansible/
+Guide: https://tkjpedia.com/build-golden-ami-using-packer-and-ansible/
