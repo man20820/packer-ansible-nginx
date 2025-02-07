@@ -1,0 +1,1 @@
+Guide: https://tkjpedia.com/build-pre-configured-ami-using-packer-and-ansible/(buka di tab baru)
